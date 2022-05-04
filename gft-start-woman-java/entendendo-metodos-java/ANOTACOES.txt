@@ -1,0 +1,7 @@
+===== SOBRECARGAS =====
+
+"É a capacidade de definir métodos para diferentes contextos, mas preservando seu nome."
+
+* Como se fosse um "isótopo" do método
+* Mantém-se o nome, mas não os parâmetros
+	* Assinatura de um método é seu nome + seus parâmetros
