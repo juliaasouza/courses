@@ -1,4 +1,4 @@
-package dio.exercicioum;
+package exercicioum;
 
 // Eu pessoalmente teria feito com return em vez de print no final das funcoes,
 // mas eu preferi refazer seguindo o exemplo do professor

@@ -1,4 +1,4 @@
-package dio.exercicioum;
+package exercicioum;
 
 public class Main {
 

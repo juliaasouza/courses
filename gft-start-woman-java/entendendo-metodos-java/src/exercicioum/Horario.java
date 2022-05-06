@@ -1,4 +1,4 @@
-package dio.exercicioum;
+package exercicioum;
 
 // Eu achei o modo feito pelo professor (com switch) feio
 
