@@ -1,0 +1,14 @@
+G:\Projetos\dio-cursos\gft-start-5-dotnet\value-types-e-reference-types\Value Types e Reference Types\Value Types e Reference Types\obj\Debug\netcoreapp3.1\Value Types e Reference Types.csproj.AssemblyReference.cache
+G:\Projetos\dio-cursos\gft-start-5-dotnet\value-types-e-reference-types\Value Types e Reference Types\Value Types e Reference Types\obj\Debug\netcoreapp3.1\Value Types e Reference Types.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projetos\dio-cursos\gft-start-5-dotnet\value-types-e-reference-types\Value Types e Reference Types\Value Types e Reference Types\obj\Debug\netcoreapp3.1\Value Types e Reference Types.AssemblyInfoInputs.cache
+G:\Projetos\dio-cursos\gft-start-5-dotnet\value-types-e-reference-types\Value Types e Reference Types\Value Types e Reference Types\obj\Debug\netcoreapp3.1\Value Types e Reference Types.AssemblyInfo.cs
+G:\Projetos\dio-cursos\gft-start-5-dotnet\value-types-e-reference-types\Value Types e Reference Types\Value Types e Reference Types\obj\Debug\netcoreapp3.1\Value Types e Reference Types.csproj.CoreCompileInputs.cache
+G:\Projetos\dio-cursos\gft-start-5-dotnet\value-types-e-reference-types\Value Types e Reference Types\Value Types e Reference Types\bin\Debug\netcoreapp3.1\Value Types e Reference Types.exe
+G:\Projetos\dio-cursos\gft-start-5-dotnet\value-types-e-reference-types\Value Types e Reference Types\Value Types e Reference Types\bin\Debug\netcoreapp3.1\Value Types e Reference Types.deps.json
+G:\Projetos\dio-cursos\gft-start-5-dotnet\value-types-e-reference-types\Value Types e Reference Types\Value Types e Reference Types\bin\Debug\netcoreapp3.1\Value Types e Reference Types.runtimeconfig.json
+G:\Projetos\dio-cursos\gft-start-5-dotnet\value-types-e-reference-types\Value Types e Reference Types\Value Types e Reference Types\bin\Debug\netcoreapp3.1\Value Types e Reference Types.runtimeconfig.dev.json
+G:\Projetos\dio-cursos\gft-start-5-dotnet\value-types-e-reference-types\Value Types e Reference Types\Value Types e Reference Types\bin\Debug\netcoreapp3.1\Value Types e Reference Types.dll
+G:\Projetos\dio-cursos\gft-start-5-dotnet\value-types-e-reference-types\Value Types e Reference Types\Value Types e Reference Types\bin\Debug\netcoreapp3.1\Value Types e Reference Types.pdb
+G:\Projetos\dio-cursos\gft-start-5-dotnet\value-types-e-reference-types\Value Types e Reference Types\Value Types e Reference Types\obj\Debug\netcoreapp3.1\Value Types e Reference Types.dll
+G:\Projetos\dio-cursos\gft-start-5-dotnet\value-types-e-reference-types\Value Types e Reference Types\Value Types e Reference Types\obj\Debug\netcoreapp3.1\Value Types e Reference Types.pdb
+G:\Projetos\dio-cursos\gft-start-5-dotnet\value-types-e-reference-types\Value Types e Reference Types\Value Types e Reference Types\obj\Debug\netcoreapp3.1\Value Types e Reference Types.genruntimeconfig.cache
