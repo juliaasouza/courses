@@ -7,13 +7,12 @@ function comparaNumeros(a, b){
     }
     
     if(soma < 20){
-        menor20 = 'é menor que 20';
+        maior20 = 'é menor que 20';
     }
 
     if(a === b){
         saoIguais = 'são iguais';
     }
     
-
-    console.log("Os números " + a + " e " + b + " " + saoIguais + ". A soma entre eles é " + soma + ", que " + maior10 + " e " + menor20 + ".");
+    console.log(`Os números ${a} e ${b} ${saoIguais}. A soma entre eles é ${soma}, que ${maior10} e ${menor20}.`);
 }
